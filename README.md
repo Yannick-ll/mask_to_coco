@@ -2,7 +2,7 @@
 
 ### PURPOSE ###
 
-* INVESTIGATE NEW FEATURE : generate missing annotations (json files)
+* RESOLVE ISSUE : generate missing annotations (json files)
 * TEST API : PixelLib
 
 ### What does this repository do? ###
